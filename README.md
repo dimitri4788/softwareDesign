@@ -1,7 +1,7 @@
 Software Design Document Template
 =================================
 
-You can use this template in your project to write software design/architecture document.
+You can use **designDocument.md** template in your project to write software design/architecture document.
 
 Author
 ------
