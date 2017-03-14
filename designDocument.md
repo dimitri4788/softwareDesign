@@ -11,8 +11,8 @@ Version # | Date | Author | Changes
 --- | --- | --- | ---
 1 | 03/10/2017 | Deep Aggarwal | Initial Draft
 2 | {{MM/DD/YYYY}} | {{author-name}} | {{description}}
-. | . | .
-. | . | .
+. | . | . | .
+. | . | . | .
 
 <div style="page-break-after: always;"></div>
 ## Table of Contents
