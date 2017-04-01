@@ -6,6 +6,7 @@ Document Version: **{{version-number}}**<br>
 Last Updated: **{{month date, year}}**<br>
 
 <div style="page-break-after: always;"></div>
+
 ## Revision Control
 Version # | Date | Author | Changes
 --- | --- | --- | ---
@@ -16,6 +17,7 @@ Version # | Date | Author | Changes
 
 
 <div style="page-break-after: always;"></div>
+
 ## Table of Contents
 - Introduction
     - Purpose
@@ -40,6 +42,7 @@ Version # | Date | Author | Changes
 
 
 <div style="page-break-after: always;"></div>
+
 ## Introduction
 ### Purpose
 TODO
@@ -62,10 +65,12 @@ Acronym | Definition
 . | .
 
 <div style="page-break-after: always;"></div>
+
 ## System Overview
 TODO
 
 <div style="page-break-after: always;"></div>
+
 ## System Architecture/Design
 
 ### Architectural Design
@@ -85,6 +90,7 @@ TODO
 TODO
 
 <div style="page-break-after: always;"></div>
+
 ## Possible Technologies
 TODO
 
@@ -97,6 +103,7 @@ For example: We chose to implement {{project-name}}'s database using relational 
 ### {{etc.}}
 
 <div style="page-break-after: always;"></div>
+
 ## Testing
 
 ### Testing Procedure
@@ -115,6 +122,7 @@ TODO
 *Explain all the test cases covered and the expected results.*
 
 <div style="page-break-after: always;"></div>
+
 ## Useful Resources
 TODO
 
@@ -125,14 +133,17 @@ Some useful links:
 - ZZZ
 
 <div style="page-break-after: always;"></div>
+
 ## Future Improvements
 TODO
 
 <div style="page-break-after: always;"></div>
+
 ## References
 TODO
 
 <div style="page-break-after: always;"></div>
+
 ## Document Info
 
 **Document Location**:<br>
