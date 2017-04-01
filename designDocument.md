@@ -1,6 +1,6 @@
 # {{project-name}} Design Specification
 
-Proprietary and Confidential – For Internal {{company-name}} Use Only  
+Proprietary and Confidential – For Internal {{company-name}} Use Only
 
 Document Version: **{{version-number}}**<br>
 Last Updated: **{{month date, year}}**<br>
@@ -10,7 +10,7 @@ Last Updated: **{{month date, year}}**<br>
 Version # | Date | Author | Changes
 --- | --- | --- | ---
 1 | 03/10/2017 | Deep Aggarwal | Initial Draft
-2 | {{MM/DD/YYYY}} | {{author-name}} | {{description}}
+2 | MM/DD/YYYY | author-name | description
 . | . | . | .
 . | . | . | .
 
@@ -135,18 +135,18 @@ TODO
 <div style="page-break-after: always;"></div>
 ## Document Info
 
-**Document Location**:  
-{{url-to-document-location}}  
+**Document Location**:<br>
+{{url-to-document-location}}<br>
 
-**Written by**:  
-Author:    Deep Aggarwal [deep.uiuc@gmail.com](mailto:{{deep.uiuc@gmail.com}})  
-  
+**Written by**:<br>
+Author: Deep Aggarwal [deep.uiuc@gmail.com](mailto:{{deep.uiuc@gmail.com}})<br><br>
 
-{{company-name}}  
-{{company-address}}
 
-Tel: {{phone-number}}  
-Fax: {{fax}}  
+{{company-name}}<br>
+{{company-address}}<br>
 
-  
+Tel: {{phone-number}}<br>
+Fax: {{fax}}<br><br>
+
+
 Copyright {{year}}. All rights reserved.
