@@ -1,10 +1,5 @@
-Software Design Document Template
-=================================
+# Documents
 
-You can use **designDocument.md** template in your project to write software design/architecture document.
-
-Author
-------
-Deep Aggarwal  
-deep.uiuc@gmail.com  
-Date Started: 03/10/2017  
+- [Gitflow Workflow](gitflowWorkflow.md)
+- [Git Commit Message](gitCommitMessage.md)
+- [Software Design Document Template](designDocument.md)
